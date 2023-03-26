@@ -10,4 +10,4 @@ This was made as an introduction to GANs and generative neural networks in gener
 - Flickr API for the pictures scraping
 
 ### How to use
-Open the main file of the repo, GAN - Bird Photos Generation, and click on "Open in Colab" at the top of the file. To avoid downloading the pictures, you'll have to import the dataset in your GDrive (send me a message for the links).
+Open the main file of the repo, [GAN - Bird Photos Generation](https://github.com/timothewt/Bird_Photos_Generation/blob/main/GAN_Bird_Photos_Generation.ipynb), and click on "Open in Colab" at the top of the file. To avoid downloading the pictures, you'll have to import the dataset in your GDrive (send me a message for the links).
